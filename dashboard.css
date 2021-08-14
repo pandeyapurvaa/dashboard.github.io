@@ -186,7 +186,7 @@ main {
 }
 .sidebar__title h1{
   
-  margin-left: 10%;
+  margin-left: -15%;
   font-weight: bolder;
 }
 .sidebar__title > i
@@ -302,7 +302,6 @@ main {
 
   .sidebar__title > i {
     display: inline;
-  border: 2px solid navy;
     margin-top: -40%;
     margin-left:20%;
     transition:1s ease-out;
